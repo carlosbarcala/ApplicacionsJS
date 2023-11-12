@@ -1,5 +1,10 @@
 # ApplicacionsJS - Frontend Framework
 
+## Disclaimer
+
+**Note:** This library is currently in development and may be unstable. It is published to showcase its functionality and gather feedback from the community. Use at your own risk.
+
+
 ApplicacionsJS is a robust frontend framework designed to simplify the creation of super-optimized applications for various formats, including web and mobile devices. This framework revolves around a core class named `Section`, allowing developers to extend and customize sections of their applications efficiently.
 
 ## Key Features
